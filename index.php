@@ -203,7 +203,7 @@
       </div>
     </section>
 	
-<?php include 'footer.php';?>
+<?php include "footer.php";?>
 
 
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
