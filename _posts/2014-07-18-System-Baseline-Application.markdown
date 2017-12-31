@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2016-09-01
 img: sql.png
 alt: image-alt
-project-date: April 2014
+project-date: September 2016
 client: Start Bootstrap
-category: Web Development
-description: This is a test of updating on github.
+category: Database Development
+description: I developed a configuration management tool for the TacCom system of a government agency.  Utilizing MySQL, PHP, AJax, and HTML I developed a web application which is an authoritative inventory for the entire TacCom system, containing each piece of equipment in the system, their connections, locations, configurations, and other metadata.
 
 ---
